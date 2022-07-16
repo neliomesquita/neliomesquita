@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neliomesquita
-- 👀 I’m interested in backend development in javascript and nodejs projects
-- 🌱 I'm currently learning javascript, NodeJs, ReactJs, Docker and Container
-- 💞️ I'm looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 👀 I’m interested in backend development for building micro services using Java, Spring, API WebServices and API RESTful
+- 🌱 I'm currently learning about DevOps technologies (Docker, Kubernetes, OpenShift, CI/CD tools), JS, NodeJS, AngularJS, ReactJS, Vue.js, Express, MongoDB
+- 💞️ I'm looking for collaborate on open source projects
+- 📫 How to reach me @neliomesquita
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
