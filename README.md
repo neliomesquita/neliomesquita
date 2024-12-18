@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neliomesquita
 - 👀 I’m interested in backend development for building microservices using Java, Spring, API WebServices and API RESTful
-- 🌱 I'm currently learning about DevOps technologies such as Docker, Kubernetes, OpenShift, CI/CD tools) and JS, Node.js, AngularJS, ReactJS, Vue.js, Express, MongoDB
+- 🌱 I'm currently learning about DevOps technologies such as Docker, Kubernetes, OpenShift, CI/CD tools and JS, Node.js, AngularJS, ReactJS, Vue.js, Express, MongoDB
 - 💞️ I'm looking for collaborate on open source projects
 - 📫 How to reach me @neliomesquita
 <br><br>
